@@ -1,0 +1,25 @@
+{
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "description": "Avalanche is a high throughput smart contract blockchain platform. Validators secure the network through a proof-of-stake consensus protocol. It is said to be fast, low cost, and environmental friendly.",
+    "website": "https://avax.network",
+    "explorer": "https://snowtrace.io/token/0x0000000000000000000000000000000000000000",
+    "status": "active",
+    "id": "0x0000000000000000000000000000000000000000",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/avax"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/avalancheavax"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Avax"
+        }
+    ]
+}
